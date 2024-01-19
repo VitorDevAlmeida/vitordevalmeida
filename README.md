@@ -19,7 +19,9 @@ Bem-vindo ao meu cantinho digital! Sou um apaixonado desenvolvedor Front-End em 
 
 ## 🚀 Projetos Destacados
 
-- 🌐 Projeto Finans https://github.com/VitorDevAlmeida/Projeto-Finans: Um site desenvolvido com HTML e CSS, onde eu tive o meu primeito contato com o Bootstrap, onde fiquei encantado com essa Tecnologia inovadora. 
+- 🌐 Projeto Spotify https://github.com/VitorDevAlmeida/Projeto-Spotify : Nesse projeto finalizei os conhecimentos com o Bootstrap fazendo um clone da pagina oficial do spotify. Esse projeto está responsivo para todos os tamanhos de tela. Utilizei HTML, CSS e as edições prontas do Bootstrap
+- 🌐 Projeto Finans https://github.com/VitorDevAlmeida/Projeto-Finans: Um site desenvolvido com HTML e CSS, onde eu tive o meu primeito contato com o Bootstrap, onde fiquei encantado com essa Tecnologia inovadora.
+- 🌐 Projeto ALuraBooks https://github.com/VitorDevAlmeida/AluraBooks: Um projeto desenvolvido através da plataforma de estudos Alura. Foi através desse projeto que me motivou a continuar meus estudos como Front-End, nesse projeto aprendi como fazer um site totalmente responsivo, como organizar os codigos e deixar de forma limpa e clara.
 
 ## 📫 Vamos Conectar?
 
